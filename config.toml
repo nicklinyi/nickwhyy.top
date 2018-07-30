@@ -1,0 +1,52 @@
+baseURL = "http://nickwhyy.top/"
+languageCode = "en-us"
+title = "Lloyd"
+theme = "coder"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = ""
+
+[params]
+  author = "Lloyd"
+  info = ""
+  description = "Lloyd's personal website"
+  keywords = "geophysics, computer science"
+  avatarurl = "images/avatar.jpg"
+
+  footercontent = ""
+
+  hideCredits = false
+  hideCopyright = false
+
+  custom_css = []
+
+  rtl = false
+
+  langseparator = "|"
+
+[[params.social]]
+  name = "Github"
+  weight = 1
+  url = "https://github.com/nicklinyi"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "http://blog.nickwhyy.top"
+
+[[menu.main]]
+  name = "Wiki"
+  weight = 2
+  url = "http://wiki.nickwhyy.top"
+
+[[menu.main]]
+  name = "faqs"
+  weight = 3
+  url = "http://faqs.nickwhyy.top"
