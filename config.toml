@@ -1,7 +1,7 @@
 baseURL = "http://nickwhyy.top/"
 languageCode = "en-us"
 title = "Lloyd"
-theme = "coder"
+theme = "coders"
 defaultcontentlanguage = "en"
 
 paginate = 20
@@ -27,6 +27,8 @@ LastChange = "2018"
 
   hideCredits = false
   hideCopyright = false
+
+  copyrightYear = "2018"
 
   custom_css = []
 
