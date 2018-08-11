@@ -44,14 +44,14 @@ LastChange = "2018"
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url = "http://blog.nickwhyy.top"
+  url = "https://blog.nickwhyy.top"
 
 [[menu.main]]
   name = "Wiki"
   weight = 2
-  url = "http://wiki.nickwhyy.top"
+  url = "https://wiki.nickwhyy.top"
 
 [[menu.main]]
   name = "faqs"
   weight = 3
-  url = "http://faqs.nickwhyy.top"
+  url = "https://faqs.nickwhyy.top"
